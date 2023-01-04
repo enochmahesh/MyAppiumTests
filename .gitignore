@@ -1,8 +1,5 @@
 .idea
 *.apk
 AppiumTest.iml
-pom.xml
-src/
 target/
 test-output/
-testng.xml
