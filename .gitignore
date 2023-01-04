@@ -1,5 +1,2 @@
-.idea
 *.apk
-AppiumTest.iml
-target/
 test-output/
